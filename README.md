@@ -1,2 +1,2 @@
 # githubbranchingpractice
-This is a readme file
+This is a readme.md file
